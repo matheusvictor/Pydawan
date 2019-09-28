@@ -2,17 +2,17 @@
 
 ## Objetivo: 
 
-Este repositório foi pensado para aqueles que estão começando a aprender Pyhton e, além disso, querem participar pela primeira ver do [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) com seu(s) primeiro(s) Pull Request (PR).
+Este repositório foi pensado para aqueles que estão começando a aprender Pyhton e, além disso, querem participar pela primeira vez do [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) com seu(s) primeiro(s) PRs (Pull Requests).
 
 ## Autor:
 
-* **Matheus Victor** - _Trabalho inicial_ :: [Pydawan](https://github.com/matheusvictor/Pydawan)
+* **Matheus Victor** :: Trabalho inicial :: [Pydawan](https://github.com/matheusvictor/Pydawan)
 
 Veja também a lista de [contribuidores](https://github.com/your/project/contributors) deste projeto.
 
-## Contribuindo:
+## Contribuições:
 
-Se você deseja contribuir, leia [CONTRIBUTING.md]() para mais detalhes sobre nosso código de conduta e sobre o processo de envio de PRs.
+Se você deseja contribuir, leia [CONTRIBUTING.md](https://github.com/matheusvictor/Pydawan/blob/master/CONTRIBUTING.md) para mais detalhes sobre nosso código de conduta, processo de envio de PRs e outras informações sobre contribuição.
 
 ## Licença:
 
