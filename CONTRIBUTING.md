@@ -6,13 +6,15 @@ Observe que temos um código de conduta; siga-o em todas as suas interações co
 
 ## Processo de Pull Request:
 
-- Verifique as [issues](https://github.com/matheusvictor/Pydawan/issues) existentes no repositório e assine (ou comente) aquela que deseja resolver;
+- Verifique as [issues](https://github.com/matheusvictor/Pydawan/issues) existentes no repositório;
 
 - Faça um [fork](https://help.github.com/en/articles/fork-a-repo) deste repositório. Ao fazer um fork, é como se fosse criada uma cópia do código-fonte na sua conta, a qual você poderá modificar sem afetar o repositório original;
 
-- [Clone]() a cópia do repositório para seu ambiente local. Abra a pasta que contém o arquivo que deseja resolver. Exemplo: a primeira questão da lista01 estará no seguinte caminho: `Pydawan/lista01/l1q01.py`. **Não exclua as linhas de comentário com a questão**, pois outras pessoas podem querer saber o que você resolveu;
+- [Clone](https://git-scm.com/book/pt-br/v1/Git-Essencial-Obtendo-um-Reposit%C3%B3rio-Git#Clonando-um-Reposit%C3%B3rio-Existente) a cópia do repositório para seu ambiente local. Abra a pasta que contém o arquivo que deseja resolver. Exemplo: a primeira questão da lista01 estará no seguinte caminho: `Pydawan/lista01/l1q01.py`. **Não exclua as linhas de comentário com a questão**, pois outras pessoas podem querer saber o que você resolveu;
 
-- Uma vez solucionada a questão, compile para testá-la antes de solicitar uma [pull-request](https://help.github.com/articles/creating-a-pull-request). Feito isso, realize um commit para seu repositório e, em posteriomente, abra um PR para o repositório [https://github.com/matheusvictor/Pydawan/](https://github.com/matheusvictor/Pydawan/) com o título `resolve #numeroDaIssue`. Exemplo: `resolve #1`;
+- Uma vez solucionada a questão, compile para testá-la antes de solicitar uma [pull-request](https://help.github.com/articles/creating-a-pull-request). Feito isso, [sincronize]() seu repositório com o original e só depois [realize um commit](https://githowto.com/pt-BR/commiting_changes) para seu repositório;
+
+- Posteriomente, solicite uma PR para o repositório [https://github.com/matheusvictor/Pydawan/](https://github.com/matheusvictor/Pydawan/) com o título `resolve #numeroDaIssue`. Exemplo: `resolve #1`;
 
 ## Adicionando novas questões a serem resolvidas:
 
@@ -37,16 +39,17 @@ Caso note algum erro em alguma das questões, ou acredita que pode melhorar o en
 
 ## Materiais auxiliares:
 
-Para escrever e rodar seu(s) código(s), você poderá utilizar os seguinte materiais:
+### Editores de texto & IDEs:
+
+Os materiais abaixo podem te ajudar a escrever e/ou compilar seu(s) código(s) Python:
 
 - Editor(es) de texto: [Visual Code](https://code.visualstudio.com/Download), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/3);
-- Editor(es) online: [Repl.it](https://repl.it/)
-- IDEs:
+- Editor(es) online: [Repl.it](https://repl.it/);
+- [PyCharm](http://www.jetbrains.com/pycharm/).
 
-## Comandos Git:
+### Comandos Git:
 
-Se você também está iniciando com comandos Git, segue uma pequena lista de materiais que podem te ajudar:
+Se você também está iniciando com Git, segue abaixo uma pequena lista de materiais que podem te ajudar:
 
-- Como fazer um fork: 
-- Como fazer um commit:
-- O [Gitexplorer]() também poderá ser útil se tiver procurando pela sintaxe de comandos git.
+- [Git Book](https://git-scm.com/book/pt-br/v2);
+- O [Gitexplorer](https://gitexplorer.com/) também poderá ser útil se tiver procurando pela sintaxe de comandos git.
