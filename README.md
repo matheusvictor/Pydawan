@@ -8,7 +8,7 @@ Este repositório foi pensado para aqueles que estão começando a aprender Pyth
 
 * **Matheus Victor** :: Trabalho inicial :: [Pydawan](https://github.com/matheusvictor/Pydawan)
 
-Veja também a lista de [contribuidores](https://github.com/your/project/contributors) deste projeto.
+Veja também a lista de [contribuidores](https://github.com/matheusvictor/Pydawan/graphs/contributors) deste projeto.
 
 ## Contribuições:
 
