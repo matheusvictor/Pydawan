@@ -2,7 +2,7 @@
 
 ## Objetivo: 
 
-Este repositório foi pensado para aqueles que estão começando a aprender Pyhton e, além disso, querem participar pela primeira vez do [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) com seu(s) primeiro(s) PRs (Pull Requests).
+Este repositório foi pensado para aqueles que estão começando a aprender Python e, além disso, querem participar pela primeira vez do [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) com seu(s) primeiro(s) PRs (Pull Requests).
 
 ## Autor:
 
