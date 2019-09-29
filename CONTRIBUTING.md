@@ -35,7 +35,7 @@ Caso note algum erro em alguma das questões, ou acredita que pode melhorar o en
 
 - Corrija o enunciado e/ou a resolução da questão e abra uma PR com o commit `corrige questão l1q05.py`, por exemplo;
 
-- Ou, se preferir, abra uma issue com o título `Corrigir questão lNqXX.py`, para identificar qual questão deve ser corrigida. Por exemplo: `Corrigir questão l1q05.py`. Na descrição da issue, descreva detalhe o problema o quanto for possível.
+- Ou, se preferir, [abra uma issue](https://help.github.com/en/articles/creating-an-issue) com o título `Corrigir questão lNqXX.py`, para identificar qual questão deve ser corrigida. Por exemplo: `Corrigir questão l1q05.py`. Na descrição da issue, descreva detalhe o problema o quanto for possível.
 
 ## Traduções:
 
@@ -56,4 +56,5 @@ Os materiais abaixo podem te ajudar a escrever e/ou compilar seu(s) código(s) P
 Se você também está iniciando com Git, segue abaixo uma pequena lista de materiais que podem te ajudar:
 
 - [Git Book](https://git-scm.com/book/pt-br/v2);
-- O [Gitexplorer](https://gitexplorer.com/) também poderá ser útil se tiver procurando pela sintaxe de comandos git.
+- O [Gitexplorer](https://gitexplorer.com/) também poderá ser útil se tiver procurando pela sintaxe de comandos git;
+- [Desmistificando o Git](https://speakerdeck.com/icarojerry/desmistificando-o-git).
