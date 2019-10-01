@@ -10,7 +10,7 @@ Observe que temos um código de conduta; siga-o em todas as suas interações co
 
 - Faça um [fork](https://help.github.com/en/articles/fork-a-repo) deste repositório. Ao fazer um fork, é como se fosse criada uma cópia do código-fonte na sua conta, a qual você poderá modificar sem afetar o repositório original;
 
-- [Clone](https://git-scm.com/book/pt-br/v1/Git-Essencial-Obtendo-um-Reposit%C3%B3rio-Git#Clonando-um-Reposit%C3%B3rio-Existente) a cópia do repositório para seu ambiente local. Abra a pasta que contém o arquivo que deseja resolver. Exemplo: a primeira questão da lista01 estará no seguinte caminho: `Pydawan/lista01_pt-BR/l1q01.py`. **Não exclua as linhas de comentário com a questão**, pois outras pessoas podem querer saber o que você resolveu;
+- [Clone](https://git-scm.com/book/pt-br/v1/Git-Essencial-Obtendo-um-Reposit%C3%B3rio-Git#Clonando-um-Reposit%C3%B3rio-Existente) a cópia do repositório para seu ambiente local. Abra a pasta que contém o arquivo que deseja resolver. Exemplo: a primeira questão da lista01 estará no seguinte caminho: `Pydawan/lista01_pt-BR/l1q01.py`. **Não exclua as linhas de comentário com a questão**, pois outras pessoas podem querer saber o que você resolveu. **Comentários também são importantes**, por isso, tente comente seu código sempre que possível para que outros possam aprender com isso;
 
 - Uma vez solucionada a questão, compile para testá-la antes de solicitar uma [pull-request](https://help.github.com/articles/creating-a-pull-request). Feito isso, [sincronize](https://git-scm.com/book/pt-br/v1/Git-Essencial-Trabalhando-com-Remotos#Fazendo-o-Fetch-e-Pull-de-Seus-Remotos) seu repositório com o original e só depois [realize um commit](https://githowto.com/pt-BR/commiting_changes) para seu repositório;
 
