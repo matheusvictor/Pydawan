@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
 '''
-Construir um algoritmo que efetue o cálculo do salário líquido de um professor.
-Para fazer este algoritmo, você deverá possuir alguns dados, tais como: valor do salário bruto e o percentual de impostos.
-Para calcular o valor do salario liquido, desconte do salario bruto o percentual de referente aos impostos.
+Build an algorithm that calculates a teacher's net salary.
+To make this algorithm, you must have some data, such as: gross salary amount and tax percentage.
+To calculate the amount of net salary, discount from gross salary the percentage of taxes.
 '''

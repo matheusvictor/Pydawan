@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
- '''
- Ler dois valores (inteiros, reais ou caracteres) para as variáveis A e B, e efetuar a troca dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A.
- Apresentar os valores trocados.
- '''
+'''
+Read two values ​​(integers, reals or characters) for variables A and B, and exchange values ​​so that variable A has the value of variable B and variable B has the value of variable A.
+Display the changed values.
+'''

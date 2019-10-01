@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
 '''
-Escreva um programa em Python que armazene o valor 10 em uma variável A e o valor 20 em uma variável B.
-A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa.
-Ao final, escrever os valores que ficaram armazenados nas variáveis.
+Write a Python program that stores the value 10 in a variable A and the value 20 in a variable B.
+Then (using only assignments between variables) change their contents causing the value that is in A to B and vice versa.
+At the end, write the values ​​that were stored in the variables.
 '''

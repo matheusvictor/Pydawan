@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
 '''
-Elabore um algoritmo que efetue a leitura de três valores (A, B e C) e apresente como resultado final o quadrado da soma dos três valores lidos.
+Develop an algorithm that reads three values ​​(A, B and C) and presents as the final result the square of the sum of the three values ​​read.
 '''
