@@ -39,7 +39,21 @@ Caso note algum erro em alguma das questões, ou acredita que pode melhorar o en
 
 ## Traduções:
 
+Você também pode contribir com este repositório traduzindo as questões para outros idiomas, de preferência para seu idioma nativo ou algum outro que você seja fluente. Se por acaso não houve uma lista de exercícios com o idioma que procura, crie seguindo o mesmo padrão das existentes ou abra uma issue!
+
+`Este tópico ainda está em desenvolvimento!` 
+
+## Abrindo novas issues: 
+
+Se você notou algo de errado em alguma das soluções, enunciado ou tradução, poderá reportá-lo a partir de uma nova issue. Mas, antes de fazê-lo, verifique com cuidado se alguma outra pessoa já não relatou este problema, assim evita a existência de issues duplicadas.
+
 `Este tópico ainda será desenvolvido!` 
+
+## Indicando novos materiais de apoio:
+
+Você também pode ajudar indicando materiais de apoio (gratuitos, preferencialmente).
+
+`Este tópico ainda está em desenvolvimento!` 
 
 # Materiais auxiliares:
 
