@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
 '''
-Desenvolva um algoritmo capaz de ler uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.
-A fórmula de conversão é F ← (9 * C + 160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+Develop an algorithm that can read a temperature in degrees Celsius and display it converted to degrees Fahrenheit.
+The conversion formula is F ← (9 * C + 160) / 5, where F is the temperature in Fahrenheit and C is the temperature in Celsius.
 '''

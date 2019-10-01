@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# - * - coding: utf-8 - * - [Defines the use of some special characters, such as ~, ^, etc.]
 
 '''
-Elaborar um programa que calcule e apresente o volume de uma caixa retangular.
-Use a fórmula: VOLUME ← COMPRIMENTO * LARGURA * ALTURA.
+Design a program that calculates and presents the volume of a rectangular box.
+Use the formula: VOLUME ← LENGTH * WIDTH * HEIGHT.
 '''
