@@ -16,6 +16,8 @@ Observe que temos um código de conduta; siga-o em todas as suas interações co
 
 - Posteriomente, solicite uma PR para o repositório [https://github.com/matheusvictor/Pydawan/](https://github.com/matheusvictor/Pydawan/) com o título `resolve #numeroDaIssue`. Exemplo: `resolve #1`;
 
+#### **P.s.: as questões precisam ser resolvidas utilizando funcionalidades compatíveis com a versão do Python 3.7.4 ou inferior.**
+
 ## Adicionando novas questões a serem resolvidas:
 
 Se vocẽ deseja adicionar novas questões para que outras pessoas possam resolver, siga os seguintes passos:
