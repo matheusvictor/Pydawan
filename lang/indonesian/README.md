@@ -1,8 +1,8 @@
 # Pydawan - Memulai dengan Python
 <p align="center">
   <span>Indonesia</span> |
-  <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portuguese</a> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">English</a>
+  <a href="../../#pydawan---iniciando-no-python">Portuguese</a> |
+  <a href="lang/english#pydawan---getting-started-with-python">English</a>
 </p>
 
 ## Tujuan: 
