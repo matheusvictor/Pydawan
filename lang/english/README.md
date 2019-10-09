@@ -1,7 +1,7 @@
 # Pydawan - Getting Started with Python
 <p align="center">
   <span>English</span> |
-  <a href="../../#pydawan---iniciando-no-python">Portuguese</a> |
+  <a href="../../README.md#pydawan---iniciando-no-python">Portuguese</a> |
   <a href="../indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a>
 </p>
 
