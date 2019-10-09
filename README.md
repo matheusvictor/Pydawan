@@ -2,7 +2,7 @@
 <p align="center">
   <span>Portuguese</span> |
   <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">English</a> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a>
+  <a href="lang/indonesian#pydawan---memulai-dengan-python">Indonesian</a>
 </p>
 
 ## Objetivo: 
