@@ -2,7 +2,7 @@
 
 <p align="center">
   <span>Portuguese</span> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/indonesian/CONTRIBUTING.md#berkontribusi">English</a>
+  <a href="lang/indonesian/CONTRIBUTING.md#berkontribusi">Indonesian</a>
 </p>
 
 Ao contribuir com este repositório, primeiro discuta a alteração que deseja fazer via issue, e-mail ou qualquer outro método com os proprietários deste repositório antes de fazer uma alteração.
