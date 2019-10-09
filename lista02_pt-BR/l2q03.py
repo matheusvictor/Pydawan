@@ -5,8 +5,8 @@ Ler as notas da 1ª e 2ª avaliações de um aluno. Calcular a média aritmétic
 Escreva também a média calculada.
 '''
 
-nota1 = input('Informe a nota da 1ª avaliação')
-nota2 = input('Informe a nota da 2ª avaliação')
+nota1 = input('Informe a nota da 1ª avaliação: ')
+nota2 = input('Informe a nota da 2ª avaliação: ')
 
 media = (float(nota1)+float(nota2)) / 2
 
