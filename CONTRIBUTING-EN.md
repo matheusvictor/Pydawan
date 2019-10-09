@@ -59,6 +59,16 @@ You can also help by indicating support materials (free, preferably).
 
 ## Text Editors & IDEs:
 
-The following materials can help you write and / or compile your Python code (s):
+The materials below can help you write and / or compile your Python code (s):
 
-- Text editor (s): [Visual Code](https://code.visualstudio.com/Download), [Act
+- Text editor (s): [Visual Code](https://code.visualstudio.com/Download),  [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/3).
+- Online editor (s): [Repl.it](https://repl.it/).
+- [PyCharm](http://www.jetbrains.com/pycharm/).
+
+## Git Commands:
+
+If you are also starting out with Git, here is a short list of materials that can help you:
+
+- [Git Book](https://git-scm.com/book/en/v2).
+- [Gitexplorer](https://gitexplorer.com/) may also be useful if you are looking for the git command syntax.
+- [Demystifying Git](https://speakerdeck.com/icarojerry/demystifying-o-git).
