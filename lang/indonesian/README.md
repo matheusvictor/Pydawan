@@ -2,7 +2,7 @@
 <p align="center">
   <span>Indonesia</span> |
   <a href="../../README.md#pydawan---iniciando-no-python">Portuguese</a> |
-  <a href="../lang/english#pydawan---getting-started-with-python">English</a>
+  <a href="../english#pydawan---getting-started-with-python">English</a>
 </p>
 
 ## Tujuan: 
