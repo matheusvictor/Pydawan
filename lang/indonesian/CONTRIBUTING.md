@@ -1,7 +1,7 @@
 # Berkontribusi:
 <p align="center">
   <span>Indonesia</span> |
-  <a href="https://github.com/amusfq/Pydawan/blob/master/CONTRIBUTING.md#contribuindo">Portuguese</a>
+  <a href="../../CONTRIBUTING.md#contribuindo">Portuguese</a>
 </p>
 
 Ketika ingin berkontribusi pada repositori ini, pertama-tama diskusikan perubahan yang ingin anda lakukan melalui issues, email, atau metode lain dengan pemilik repositori ini sebelum melakukan perubahan.
