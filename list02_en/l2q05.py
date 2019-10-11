@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
-Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles.
+Read two values (assume that no equal values will be read) and write the largest of them.
 '''

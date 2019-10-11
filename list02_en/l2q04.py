@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
-Ler o ano atual e o ano de nascimento de uma pessoa.
-Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
-A pessoa poderá votar se tiver 16 anos ou mais.
+Read the current year and year of birth of a person.
+Write a message that tells you whether or not she can vote this year (no need to consider the month in which the person was born).
+The person can vote if they are 16 or older.
 '''
