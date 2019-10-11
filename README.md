@@ -2,9 +2,10 @@
 <p align="center">
   <span>Portuguese</span> |
   <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">English</a>
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/french#pydawan---premiers-pas-avec-python">French</a>
 </p>
 
-## Objetivo: 
+## Objetivo:
 
 Este repositório foi pensado para aqueles que estão começando a aprender Python e, além disso, querem participar pela primeira vez do [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) com seu(s) primeiro(s) PRs (Pull Requests).
 
