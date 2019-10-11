@@ -1,7 +1,8 @@
 # Pydawan - Iniciando no Python
 <p align="center">
-  <span>Portuguese</span> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">English</a>
+  <span>Portuguese</span> 
+  | <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">English</a>
+  | <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/spanish#pydawan---getting-started-with-python">Spanish</a>
 </p>
 
 ## Objetivo: 
