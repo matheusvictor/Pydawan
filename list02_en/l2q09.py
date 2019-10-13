@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
 Read 3 values (A, B and C) representing the measurements of the sides of a triangle and write whether or not they form a triangle.

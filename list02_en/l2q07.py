@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
 Read two values and print one of the following three messages:
