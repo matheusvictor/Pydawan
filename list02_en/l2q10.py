@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
-Faça um algoritmo para ler um número que é um código de usuário. Caso este código seja diferente de um código armazenado internamente no algoritmo (igual a 1234) deve ser apresentada a mensagem ‘Usuário inválido!’. Caso o Código seja correto, deve ser lido outro valor que é a senha. Se esta senha estiver incorreta (a certa é 9999) deve ser mostrada a mensagem ‘senha incorreta’.
-Caso a senha esteja correta, deve ser mostrada a mensagem ‘Acesso permitido’. 
+Make an algorithm to read a number that is a user code. If this code is different from a code stored internally in the algorithm (equal to 1234) the message 'Invalid user!' Should be displayed. If the Code is correct, read another value which is the password. If this password is incorrect (one is 9999) the message 'incorrect password' should be displayed.
+If the password is correct, the message 'Access allowed' should be displayed.
 '''
