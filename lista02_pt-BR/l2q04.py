@@ -24,3 +24,4 @@ print("Idade: ",idade)
 #uso da expressão condicional que é chamado de operador ternário em algumas outras linguagens, mas é um if else simples
 #e pode ser substituido pela forma convencional de escrita;
 print("Pode votar" if idade>=16 else "Não pode votar")
+ 
