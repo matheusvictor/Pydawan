@@ -2,6 +2,7 @@
 
 <p align="center">
   <span>Portuguese</span> |
+  <a href="lang/english/CONTRIBUTING.md#contributing">English</a> |
   <a href="lang/indonesian/CONTRIBUTING.md#berkontribusi">Indonesian</a>
 </p>
 
