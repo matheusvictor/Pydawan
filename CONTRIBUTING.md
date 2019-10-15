@@ -7,7 +7,8 @@
 
 <p align="center">
   <span>Portuguese</span> |
-  <a href="lang/english/CONTRIBUTING.md#contributing">English</a>
+  <a href="lang/english/CONTRIBUTING.md#contributing">English</a> |
+  <a href="lang/indonesian/CONTRIBUTING.md#berkontribusi">Indonesian</a>
 </p>
 
 Ao contribuir com este repositório, primeiro discuta a alteração que deseja fazer via issue, e-mail ou qualquer outro método com os proprietários deste repositório antes de fazer uma alteração.
