@@ -2,12 +2,8 @@
 
 <p align="center">
   <span>Portuguese</span> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/french#pydawan---contribuer">French</a>
-</p>
-
-<p align="center">
-  <span>Portuguese</span> |
   <a href="lang/english/CONTRIBUTING.md#contributing">English</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/french#pydawan---contribuer">French</a> |
   <a href="lang/indonesian/CONTRIBUTING.md#berkontribusi">Indonesian</a>
 </p>
 
