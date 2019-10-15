@@ -11,12 +11,13 @@ num_2 = 0
 num_1 = float(input("Informe o primeiro número: "))
 num_2 = float(input("Informe o segundo número: "))
 
-#condicional ifelse para verificar se os valores sao diferentes, se os valores sao iguais faz a verificação de qual o maior
-if num_1!=num_2:
-    if num_1>num_2:
-        print("O maior é: ",num_1)
-    else:
-        print("O maior é: ",num_2)
-else: 
-    print("Informe valores diferentes")
-        
+#loop que solicita ao usuario que insira um segundo valor diferente
+while(num_1==num_2):
+    num_2 = float(input("Informe o segundo número difente do primeiro: "))
+
+#condicional ifelse para verificar qual o maior
+if num_1>num_2:
+    print("O maior é: ",num_1)
+else:
+    print("O maior é: ",num_2)
+
