@@ -21,3 +21,4 @@ if num_1>num_2:
     print("Ordem crescente: ",num_1," ; ",num_2)
 else:
     print("Ordem crescente: ",num_2," ; ",num_1)
+ 
