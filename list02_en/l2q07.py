@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
-Ler dois valores e imprimir uma das três mensagens a seguir:
+Read two values and print one of the following three messages:
 
-- ‘Números iguais’, caso os números sejam iguais;
-- ‘Primeiro é maior’, caso o primeiro seja maior que o segundo; ‘Segundo maior’, caso o segundo seja maior que o primeiro.
-
+- 'equal numbers', if the numbers are equal;
+- 'First is greater' if the first is greater than the second; 'Second largest' if the second is greater than the first.
 '''

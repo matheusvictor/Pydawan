@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*- [Define a utilização de alguns caracteres especiais, como ~, ^, etc.]
+# -*- coding: utf-8 -*- [Defines the use of some special characters such as ~, ^, etc.]
 
 '''
-Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em ordem crescente.
+Read 3 values (assume that no equal values will be given) and write them in ascending order.
 '''
