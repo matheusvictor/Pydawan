@@ -7,5 +7,5 @@ The conversion formula is F ← (9 * C + 160) / 5, where F is the temperature in
 def tempconv(): #function that converts temperature from celsius to Fahrenheit
   tempinC = float(input("Enter the temperature in Celsius "))   #takes and stores the temperature in Celsius
   tempinF = (9*tempinC + 160)/5 
-  print ("The temperature {1} C in Fahrenheit is {0}".format(tempinF,tempinC)) #prints temperature in Celsius
+  print ("The temperature {1} C in Fahrenheit is {0:.2f}".format(tempinF,tempinC)) #prints temperature in Celsius
 tempconv()
