@@ -1,4 +1,4 @@
-# Pydawan - Getting Started with Python
+# Pydawan - Comenzando con Python
 
 <p align="center">
   <span>Español</span> |
