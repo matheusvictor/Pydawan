@@ -2,6 +2,7 @@
 
 <p align="center">
   <span>Español</span> |
+    <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portugués</a> |
     <a href="lang/english#pydawan---getting-started-with-python">Inglés</a> |
     <a href="lang/french#pydawan---premiers-pas-avec-python">Francés</a> |
     <a href="lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonesio</a> |
