@@ -5,7 +5,7 @@
   <a href="lang/english#pydawan---getting-started-with-python">English</a> |
   <a href="lang/french#pydawan---premiers-pas-avec-python">French</a> |
   <a href="lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a> |
-  <a href="lang/spanish#pydawan---getting-started-with-python">Spanish</a> |
+  <a href="lang/spanish#pydawan---comenzando-con-python">Spanish</a> |
 </p>
 
 ## Objetivo:

@@ -5,7 +5,7 @@
   <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portugais</a> |
   <a href="lang/english#pydawan---getting-started-with-python">Anglaise</a> |
   <a href="lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonésienne</a> |
-  <a href="lang/spanish#pydawan---getting-started-with-python">Espanol</a> |
+  <a href="lang/spanish#pydawan---comenzando-con-python">Espanol</a> |
 </p>
 
 ## Objective:
