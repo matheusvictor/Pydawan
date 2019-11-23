@@ -3,9 +3,9 @@
 
   <span>English</span> |
   <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portuguese</a> |
-  <a href="lang/french#pydawan---premiers-pas-avec-python">French</a> |
-  <a href="lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a> |
-  <a href="lang/spanish#pydawan---comenzando-con-python">Spanish</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/french#pydawan---premiers-pas-avec-python">French</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/blob/master/lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/spanish#pydawan---comenzando-con-python">Spanish</a> |
 
 </p>
 

@@ -3,9 +3,9 @@
 <p align="center">
   <span>Indonesia</span> |
   <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portugis</a> |
-  <a href="lang/english#pydawan---getting-started-with-python">Inggris</a> |
-  <a href="lang/french#pydawan---premiers-pas-avec-python">Perancis</a> |
-  <a href="lang/spanish#pydawan---comenzando-con-python">Spanyol</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/english#pydawan---getting-started-with-python">Inggris</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/french#pydawan---premiers-pas-avec-python">Perancis</a> |
+  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/spanish#pydawan---comenzando-con-python">Spanyol</a> |
 </p>
 
 ## Tujuan: 
