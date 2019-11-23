@@ -2,10 +2,10 @@
 <p align="center">
 
   <span>Polski</span> |
-  <a href="https://github.com/matheusvictor/Pydawan/blob/master/lang/english/README.md">English</a> |
-  <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portuguese</a> |
-  <a href="../indonesian/README.md#pydawan---memulai-dengan-python">Indonesian</a> |
-  <a href="https://github.com/matheusvictor/Pydawan/tree/master/lang/spanish#pydawan---getting-started-with-python">Spanish</a>
+  <a href="https://github.com/matheusvictor/Pydawan#pydawan---iniciando-no-python">Portugalski</a> |
+  <a href="lang/english#pydawan---getting-started-with-python">Angielski</a> |
+  <a href="lang/indonesian/README.md#pydawan---memulai-dengan-python">Indonezyjski</a> |
+  <a href="lang/spanish#pydawan---getting-started-with-python">Hiszpański</a>
 
 </p>
 
